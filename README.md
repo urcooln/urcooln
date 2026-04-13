@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @urcooln
-- 👀 I’m interested in Gaming, and Web Applications ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT...
-- 💞️ I’m looking to collaborate on projects...
-- 📫 How to reach me jjimenez19961@gmail.com or Discord Urcooln#2879...
+# Hi, I'm John Jimenez
 
-<!---
-urcooln/urcooln is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student at Rowan University graduating in May 2026.
+
+## What I work with
+- Java
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
+- MongoDB
+- Git/GitHub
+
+## What I'm looking for
+I’m seeking entry-level software development, IT support, and technical roles where I can keep building real-world experience.
+
+## Featured work
+- [Portfolio](https://github.com/urcooln/portfolio)
+- [RepairConnect](https://github.com/urcooln/repairconnect)
+
+## Links
+- [Portfolio Website](https://urcooln.github.io/portfolio/)
+- [LinkedIn](https://www.linkedin.com/in/john-jimenez2/)
