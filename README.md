@@ -20,5 +20,4 @@ I’m seeking entry-level software development, IT support, and technical roles 
 - [RepairConnect](https://github.com/urcooln/repairconnect)
 
 ## Links
-- [Portfolio Website](https://urcooln.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/john-jimenez2/)
